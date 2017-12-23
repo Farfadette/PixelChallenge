@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ALT_F5.unity
+  isLoaded: 1
+  isActive: 1

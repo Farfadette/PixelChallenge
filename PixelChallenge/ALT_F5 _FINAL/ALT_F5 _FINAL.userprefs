@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripte\GameSkripte\Player4Movement.cs">
+    <Files>
+      <File FileName="Assets\scripte\GameSkripte\Player1Movement.cs" Line="141" Column="1" />
+      <File FileName="Assets\scripte\GameSkripte\Player2Movement.cs" Line="146" Column="3" />
+      <File FileName="Assets\scripte\GameSkripte\Player3Movement.cs" Line="147" Column="3" />
+      <File FileName="Assets\scripte\GameSkripte\Player4Movement.cs" Line="147" Column="3" />
+      <File FileName="Assets\scripte\GameSkripte\deadZoneSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripte\StartHubScript\HUBControle.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripte\GameSkripte\Game_Manager.cs" Line="109" Column="3" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
