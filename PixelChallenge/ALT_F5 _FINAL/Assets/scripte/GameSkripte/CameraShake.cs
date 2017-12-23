@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
+
+
 public class CameraShake : MonoBehaviour 
 {
 
@@ -13,7 +17,8 @@ public class CameraShake : MonoBehaviour
 	private bool isShaking;
 	private int timeCalled = 0;
 
-
+    // fait par kim 
+    
 
 	void Update()
 	{
